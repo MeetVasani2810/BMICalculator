@@ -2,6 +2,7 @@ BMI Calculator App
 An intuitive Android application that calculates the Body Mass Index (BMI) based on user input. This project serves as a foundational exercise in Android development, emphasizing core concepts like activities, XML layouts, and user interaction within Android Studio.
 
 📱 Features
+
 User-friendly interface for inputting height and weight.
 
 Real-time BMI calculation upon user request.
